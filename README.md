@@ -13,3 +13,9 @@ A new Flutter project.
 3. Cart Screen
  - displays list of products added to cart
  - has "remove from cart" button at the rightmost area
+
+
+
+Products are fetch from a dummy_api:
+
+https://github.com/marctan/dummy_ecomm_data
