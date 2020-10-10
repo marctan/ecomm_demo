@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^0.1.3
   provider: ^4.3.2+2
   badges: ^1.1.3
+  http: ^0.12.1
 
 dev_dependencies:
   flutter_test:
@@ -50,6 +51,7 @@ flutter:
   assets:
     - assets/load.gif
     - assets/emptycart.png
+    - assets/loadproducts.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -63,9 +65,13 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   # fonts:
-  #   - family: Schyler
+  #   - family: Cartoonist
   #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: assets/fonts/Ubuntu-Regular.ttf
+  fonts:
+    - family: Chilanka
+      fonts:
+        - asset: assets/fonts/Chilanka-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

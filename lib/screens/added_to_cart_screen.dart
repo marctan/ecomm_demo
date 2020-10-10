@@ -79,8 +79,8 @@ class CartScreen extends StatelessWidget {
                     },
                     separatorBuilder: (_, __) {
                       return Divider(
-                        color: Colors.black,
-                        thickness: 1,
+                        color: Colors.black38,
+                        thickness: 0.7,
                       );
                     },
                     itemCount: provider.products.length,

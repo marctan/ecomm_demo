@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         home: Home(),
         theme: ThemeData(
+          fontFamily: 'Chilanka',
           primaryColor: Colors.orange,
         ),
       ),

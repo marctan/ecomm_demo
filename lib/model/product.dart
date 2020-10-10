@@ -20,4 +20,13 @@ class Product {
       prod.imageUrl,
     );
   }
+
+  factory Product.fromJson(dynamic json) {
+    return Product(
+      json['id'],
+      json['name'],
+      json['description'],
+      json['imageUrl'],
+    );
+  }
 }
