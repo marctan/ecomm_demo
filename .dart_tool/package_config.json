@@ -68,6 +68,18 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "http",
+      "rootUri": "file:///Users/n-121/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/n-121/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///Users/n-121/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1",
       "packageUri": "lib/",
@@ -90,6 +102,12 @@
       "rootUri": "file:///Users/n-121/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.1",
       "packageUri": "lib/",
       "languageVersion": "2.10"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/n-121/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
     },
     {
       "name": "provider",
@@ -158,7 +176,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-10-09T15:04:59.281727Z",
+  "generated": "2020-10-10T02:19:24.013741Z",
   "generator": "pub",
   "generatorVersion": "2.10.0"
 }
